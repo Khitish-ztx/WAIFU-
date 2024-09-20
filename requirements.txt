@@ -9,3 +9,5 @@ pyrogram
 tgcrypto 
 python-dotenv
 cachetools 
+gunicorn
+
