@@ -14,6 +14,7 @@ class Config(object):
     CHARA_CHANNEL_ID = "-1002210286036"
     api_id = 22257865
     api_hash = "97fc23c20e06f411abbf36cad8e118ce"
+    PORT=5000
 
     
 class Production(Config):
